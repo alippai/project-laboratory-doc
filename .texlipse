@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Tue Mar 12 01:02:38 CET 2013
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=onlab.tex
+outputFile=onlab.pdf
+langSpell=en
+markDer=true
+srcDir=
